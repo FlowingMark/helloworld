@@ -1,2 +1,2 @@
 # helloworld
-here juse is a test
+here just is a test
